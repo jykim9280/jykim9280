@@ -6,7 +6,7 @@
 안녕하세요, 데이터를 바탕으로 고객 중심 사고를 지향하는 김지연입니다!
 
 
-## SKILLS
+## 🛠 SKILLS
 **Langs and Frameworks**<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,7 +38,7 @@
 <br>
 
 
-## STATICS
+## 🔍 STATISTICS
 ![jykim9280's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim9280&hide_rank=true&hide=prs&hide_border=true&card_width=400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim9280&layout=compact&hide_border=true&card_width=450)
 <br>
