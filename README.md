@@ -31,4 +31,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim9280&layout=compact)<br>
 ![jykim9280's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim9280&show_icons=true)<br>
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jykim9280)](https://velog.io/@jykim9280)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jykim9280)](https://velog.io/@jykim9280)
