@@ -38,6 +38,7 @@
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VScode](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim9280&layout=compact)<br>
-![jykim9280's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim9280&show_icons=true)<br>
+![jykim9280's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim9280&hide_rank=true&hide=prs&hide_border=true&card_width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim9280&layout=compact&hide_border=true&card_width=450)
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=jykim9280)](https://velog.io/@jykim9280)
