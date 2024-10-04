@@ -3,9 +3,9 @@
 ![capsuleRender](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20JIYEON&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn)<br>
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJIYEON%2Fhit-counter&count_bg=%233DC8B7&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=false)
 
-  
-### 서비스기획자
-안녕하세요, 김지연입니다!
+<!--본문 부분-->
+### 서비스 기획자
+안녕하세요, 데이터를 바탕으로 고객 중심 사고를 지향하는 김지연입니다!
 
 
 ### SKILLS
@@ -15,11 +15,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![streamlit](https://img.shields.io/badge/streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![googleanalytics4](https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=HuggingFace&logoColor=white)
 ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![googleanalytics4](https://img.shields.io/badge/googleanalytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-008080?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Interests**
 
 **Infra/Tools**<br>
 
@@ -28,6 +36,7 @@
 ![jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![VScode](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jykim9280&layout=compact)<br>
 ![jykim9280's GitHub stats](https://github-readme-stats.vercel.app/api?username=jykim9280&show_icons=true)<br>
