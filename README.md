@@ -8,7 +8,7 @@
 안녕하세요, 김지연입니다!
 
 
-### SKILS
+### SKILLS
 **Langs and Frameworks**<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
